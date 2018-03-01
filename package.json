@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darmikon/jenkins-1.git"
+  },
+  "author": "Roman Yudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darmikon/jenkins-1/issues"
+  },
+  "homepage": "https://github.com/Darmikon/jenkins-1#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
